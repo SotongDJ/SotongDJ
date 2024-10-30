@@ -2,7 +2,7 @@
 
 - I'm a Malaysian Chinese currently living in Taiwan
 - I major in Life Science at National Chung Hsing University, Taichung
-- I'm currently working as data scientist in bioinformatics
+- I'm currently working as bioinformatician (data scientist)
 - Love
   - reading fantasy and science fiction
   - learning new sci/tech knowledge from any type of media
